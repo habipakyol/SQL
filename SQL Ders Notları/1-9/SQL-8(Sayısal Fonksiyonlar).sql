@@ -1,0 +1,17 @@
+USE Northwind
+
+
+--Sayısal işlemler
+SELECT 3 + 2
+SELECT 3 * 2
+SELECT 3 - 2
+SELECT 3 / 2
+
+Select PI()
+SELECT POWER(3,2)
+
+SELECT ABS(-90)
+
+SELECT RAND()*100
+
+SELECT FLOOR(RAND()*100)
